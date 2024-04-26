@@ -24,7 +24,7 @@ So that, every channel will have the same information
 ```
 The solution is shown on image below:
 
-<img src="https://github.com/marcoscesarmelo/saga/images/saga-transfer.jpg"/>
+<img src="https://github.com/marcoscesarmelo/saga/blob/main/images/saga-transfer.jpg"/>
 
 # How those services were developed?
 3 Restful API's, were made to ilustrate this scenario. Tools used to provide this are: 
