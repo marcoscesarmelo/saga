@@ -29,9 +29,10 @@ The solution is shown on image below:
 # How those services were developed?
 3 Restful API's, were made to ilustrate this scenario. Tools used to provide this are: 
 
-### O que eu preciso para executar localmente em minha estação de trabalho?
+### What do I need to run those services local ly?
 * [Python](https://www.python.org) Python Language
 * [SQLite](https://www.sqlite.org) - Database SQLite used to ilustrate
+* Python libraries like Flask,  sqlite, requests and json (execute , for example, pip install command).
 
 
 ## About the Autor:
